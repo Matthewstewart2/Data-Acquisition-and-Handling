@@ -1,0 +1,58 @@
+Python 3.5.3 (default, Jul  9 2020, 13:00:10) 
+[GCC 6.3.0 20170516] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+============= RESTART: /home/student26/Documents/Checkpoint2.py =============
+2020-10-06 16:55:02 - WebIOPi - INFO - Loading SPI modules
+Output V on channel 0 of DAC1    V across LDR
+Output V: 0.0V    LDR V: 0.417V
+Output V: 0.067V    LDR V: 0.417V
+Output V: 0.135V    LDR V: 0.417V
+Output V: 0.202V    LDR V: 0.417V
+Output V: 0.269V    LDR V: 0.417V
+Output V: 0.337V    LDR V: 0.417V
+Output V: 0.404V    LDR V: 0.416V
+Output V: 0.471V    LDR V: 0.415V
+Output V: 0.539V    LDR V: 0.416V
+Output V: 0.606V    LDR V: 0.415V
+Output V: 0.673V    LDR V: 0.414V
+Output V: 0.741V    LDR V: 0.414V
+Output V: 0.808V    LDR V: 0.415V
+Output V: 0.876V    LDR V: 0.413V
+Output V: 0.943V    LDR V: 0.413V
+Output V: 1.01V    LDR V: 0.413V
+Output V: 1.078V    LDR V: 0.413V
+Output V: 1.145V    LDR V: 0.413V
+Output V: 1.212V    LDR V: 0.413V
+Output V: 1.28V    LDR V: 0.412V
+Output V: 1.347V    LDR V: 0.412V
+Output V: 1.414V    LDR V: 0.413V
+Output V: 1.482V    LDR V: 0.413V
+Output V: 1.549V    LDR V: 0.413V
+Output V: 1.616V    LDR V: 0.414V
+Output V: 1.684V    LDR V: 0.418V
+Output V: 1.751V    LDR V: 0.425V
+Output V: 1.818V    LDR V: 0.433V
+Output V: 1.886V    LDR V: 0.444V
+Output V: 1.953V    LDR V: 0.457V
+Output V: 2.02V    LDR V: 0.473V
+Output V: 2.088V    LDR V: 0.491V
+Output V: 2.155V    LDR V: 0.511V
+Output V: 2.222V    LDR V: 0.532V
+Output V: 2.29V    LDR V: 0.554V
+Output V: 2.357V    LDR V: 0.578V
+Output V: 2.424V    LDR V: 0.601V
+Output V: 2.492V    LDR V: 0.626V
+Output V: 2.559V    LDR V: 0.651V
+Output V: 2.627V    LDR V: 0.676V
+Output V: 2.694V    LDR V: 0.703V
+Output V: 2.761V    LDR V: 0.729V
+Output V: 2.829V    LDR V: 0.755V
+Output V: 2.896V    LDR V: 0.781V
+Output V: 2.963V    LDR V: 0.807V
+Output V: 3.031V    LDR V: 0.832V
+Output V: 3.098V    LDR V: 0.859V
+Output V: 3.165V    LDR V: 0.885V
+Output V: 3.233V    LDR V: 0.91V
+Output V: 3.3V    LDR V: 0.917V
+>>> 

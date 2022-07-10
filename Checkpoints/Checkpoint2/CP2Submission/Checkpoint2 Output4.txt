@@ -1,0 +1,58 @@
+Python 3.5.3 (default, Jul  9 2020, 13:00:10) 
+[GCC 6.3.0 20170516] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+============= RESTART: /home/student26/Documents/Checkpoint2.py =============
+2020-10-06 16:55:02 - WebIOPi - INFO - Loading SPI modules
+Output V on channel 0 of DAC1    Input V on channel 0 of ADC0
+Output V: 0.0V    Input V: 0.417V
+Output V: 0.067V    Input V: 0.417V
+Output V: 0.135V    Input V: 0.417V
+Output V: 0.202V    Input V: 0.417V
+Output V: 0.269V    Input V: 0.417V
+Output V: 0.337V    Input V: 0.417V
+Output V: 0.404V    Input V: 0.416V
+Output V: 0.471V    Input V: 0.415V
+Output V: 0.539V    Input V: 0.416V
+Output V: 0.606V    Input V: 0.415V
+Output V: 0.673V    Input V: 0.414V
+Output V: 0.741V    Input V: 0.414V
+Output V: 0.808V    Input V: 0.415V
+Output V: 0.876V    Input V: 0.413V
+Output V: 0.943V    Input V: 0.413V
+Output V: 1.01V    Input V: 0.413V
+Output V: 1.078V    Input V: 0.413V
+Output V: 1.145V    Input V: 0.413V
+Output V: 1.212V    Input V: 0.413V
+Output V: 1.28V    Input V: 0.412V
+Output V: 1.347V    Input V: 0.412V
+Output V: 1.414V    Input V: 0.413V
+Output V: 1.482V    Input V: 0.413V
+Output V: 1.549V    Input V: 0.413V
+Output V: 1.616V    Input V: 0.414V
+Output V: 1.684V    Input V: 0.418V
+Output V: 1.751V    Input V: 0.425V
+Output V: 1.818V    Input V: 0.433V
+Output V: 1.886V    Input V: 0.444V
+Output V: 1.953V    Input V: 0.457V
+Output V: 2.02V    Input V: 0.473V
+Output V: 2.088V    Input V: 0.491V
+Output V: 2.155V    Input V: 0.511V
+Output V: 2.222V    Input V: 0.532V
+Output V: 2.29V    Input V: 0.554V
+Output V: 2.357V    Input V: 0.578V
+Output V: 2.424V    Input V: 0.601V
+Output V: 2.492V    Input V: 0.626V
+Output V: 2.559V    Input V: 0.651V
+Output V: 2.627V    Input V: 0.676V
+Output V: 2.694V    Input V: 0.703V
+Output V: 2.761V    Input V: 0.729V
+Output V: 2.829V    Input V: 0.755V
+Output V: 2.896V    Input V: 0.781V
+Output V: 2.963V    Input V: 0.807V
+Output V: 3.031V    Input V: 0.832V
+Output V: 3.098V    Input V: 0.859V
+Output V: 3.165V    Input V: 0.885V
+Output V: 3.233V    Input V: 0.91V
+Output V: 3.3V    Input V: 0.917V
+>>> 
